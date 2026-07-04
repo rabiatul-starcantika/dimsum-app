@@ -106,7 +106,7 @@
                     </h4>
 
                     <p class="text-secondary">
-                        Fresh dibuat setiap hari dan siap dinikmati kapan saja.
+                        Fresh dibuat setiap hari dan siap dinikmati kapan saja!
                     </p>
 
                 </div>
