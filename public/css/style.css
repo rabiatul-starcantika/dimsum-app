@@ -1,0 +1,105 @@
+/* ==========================
+   BODY
+========================== */
+
+body {
+    background: #fff8f0;
+    font-family: "Poppins", sans-serif;
+}
+
+/* ==========================
+   NAVBAR
+========================== */
+
+.navbar {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.nav-link:hover {
+    color: #ffd54f !important;
+}
+
+/* ==========================
+   HERO
+========================== */
+
+h1 {
+    color: #b22222;
+}
+
+.lead {
+    font-size: 20px;
+}
+
+/* ==========================
+   BUTTON
+========================== */
+
+.btn-danger {
+    background: #c62828;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.btn-danger:hover {
+    transform: scale(1.05);
+    background: #a30000;
+}
+
+/* ==========================
+   CARD
+========================== */
+
+.card {
+    border-radius: 20px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.card img {
+    height: 220px;
+    object-fit: cover;
+}
+
+/* ==========================
+   FOOTER
+========================== */
+
+footer {
+    margin-top: 50px;
+}
+
+/* ==========================
+   RESPONSIVE
+========================== */
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 35px;
+    }
+
+    .lead {
+        font-size: 16px;
+    }
+
+    .navbar-brand {
+        font-size: 22px;
+    }
+}
