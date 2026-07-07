@@ -12,7 +12,7 @@
             <div class="col-lg-6">
 
                 <h5 class="text-danger fw-bold">
-                    SELAMAT DATANG DI DIMSUM ZATUL
+                    SELAMAT DATANG 
                 </h5>
 
                 <h1 class="display-4 fw-bold">
